@@ -16,7 +16,7 @@ using System.Diagnostics;
 using MongoDB.Driver;
 using MongoDB.Bson;
 
-namespace cfarevit
+namespace rvtevent
 {
     public class App : IExternalApplication
     {

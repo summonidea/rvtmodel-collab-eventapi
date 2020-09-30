@@ -1,28 +1,28 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <RevitAddIns>
   <AddIn Type="Command">
-    <Assembly>cfarevit.dll</Assembly>
+    <Assembly>rvtevent.dll</Assembly>
     <AddInId>0ae3a624-a373-43ea-be2c-089814ff7d59</AddInId>
-    <FullClassName>cfarevit.ECommand</FullClassName>
+    <FullClassName>rvtevent.ECommand</FullClassName>
     <Text>cfarevit</Text>
     <VendorId>NAMEx</VendorId>
     <VendorDescription>Your Company Information</VendorDescription>
   </AddIn>
 
   <AddIn Type="Command">
-    <Assembly>cfarevit.dll</Assembly>
+    <Assembly>rvtevent.dll</Assembly>
     <AddInId>0ae3a624-a373-43ea-be2c-089814ff7d54</AddInId>
-    <FullClassName>cfarevit.Command</FullClassName>
+    <FullClassName>rvtevent.Command</FullClassName>
     <Text>cfarevit</Text>
     <VendorId>NAMEx</VendorId>
     <VendorDescription>Your Company Information</VendorDescription>
   </AddIn>
 
     <AddIn Type="Application">
-      <Name>cfarevit</Name>
-      <Assembly>cfarevit.dll</Assembly>
+      <Name>rvtevent</Name>
+      <Assembly>rvtevent.dll</Assembly>
       <ClientId>edbd312c-b97c-4279-bc4b-e82d61f189f7</ClientId>
-      <FullClassName>cfarevit.App</FullClassName>
+      <FullClassName>rvtevent.App</FullClassName>
       <VendorId>ADSK</VendorId>
       <VendorDescription>Your Company Information</VendorDescription>
     </AddIn>
